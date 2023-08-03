@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+#navitem1{
+    color: black;
+    background-color: blue;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+    width: 150px;
+    height: 40px;
+}
+#navitem2{
+    color: black;
+    background-color: fuchsia;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+
+
+}
+#navitem3{
+    color: black;
+    background-color: gold;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+
+
+}
+#navitem4{
+    color: black;
+    background-color:indianred;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+
+}
+.sai-logo{
+    width: 80px;
+    height: 70px;
+
+}
+.banner-section-bg-container{
+    height: 120vh;
+    background-image: url("https://res.cloudinary.com/dizexseir/image/upload/c_scale,w_448,h_297,dpr_2/f_auto,q_auto/v1638887146/Rose-flower-of-love.jpg?_i=AA");
+    background-size: cover;
+}
+
+.custom-button{
+    width: 230px;
+    height: 45px;
+    color: red;
+    background-color: skyblue;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 17px;
+}
+.custom-outline-button{
+    width: 200px;
+    height: 45px;
+    color: yellow;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius: 8px;
+    font-size: 17px;
+
+}
+
+.image{
+    padding: 10px;
+    height: 450px;
+    width: 450px;
+}
+.banner-caption{
+    color: whitesmoke;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.About-sai{
+    font-style: oblique;
+ color: skyblue;
+ text-align: center;
+ font-size: 28px;
+ padding: 420px;
+
+}
+.image1{
+    height: 450px;
+    width: 450px;
+    padding: 10px;
+}
+.image2{
+    height: 450px;
+    width: 500px;
+    padding: 10px;
+
+}
+.button{
+    font-size: 35px;
+    padding: 10px;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+.Friend{
+    font-size: 20px;
+    padding: 6px;
+    font-weight: bold;
+    font-style: oblique;
+color: green;
+background-color: gold;
+
+}
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+..wcu-section{
+    background-color: #f9fbf9fe;
+}
+.wcu-section-heading{
+    font-family: "Roboto";
+    font-family: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.wcu-section-description{
+    font-size: 16px;
+    color: #5a7184;
+}
+.wcu-card-image{
+    height: 90px;
+    width: 89px;
+}
